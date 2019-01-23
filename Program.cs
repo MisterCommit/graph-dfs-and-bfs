@@ -10,7 +10,7 @@ namespace Consol
     {
         static void Main(string[] args)
         {
-            int[,] matrix = new int[50, 50];
+            int[,] matrix = new int[100, 100];
             int nodes, edges;
             int a, b, first, second;
 
